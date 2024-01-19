@@ -1,6 +1,7 @@
 STEPS:
 
 Steps for "instafollower.py":
+
 Import the necessary modules for Selenium web automation.
 Configure Chrome options and create a Chrome WebDriver instance.
 Define the Instagram login URL and create the InstaFollower class.
